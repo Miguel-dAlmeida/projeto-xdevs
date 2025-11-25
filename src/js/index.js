@@ -27,6 +27,7 @@ const btnAvancar = document.getElementById("btn-avancar");
 const btnVoltar = document.getElementById("btn-voltar");
 let cartaoAtual = 0;
 const cartoes = document.querySelectorAll(".cartao");
+console.log(cartoes)
 
 // passo 2 - dar um jeito de identificar o clique do usuário na seta avançar
 btnAvancar.addEventListener("click", function () {
@@ -63,9 +64,6 @@ btnVoltar.addEventListener("click", function () {
 
 
 });
-
-
-
 
 
 function mostrarCartao() {
