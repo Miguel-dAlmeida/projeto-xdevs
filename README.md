@@ -22,9 +22,7 @@ Além disso, o design do projeto é totalmente responsivo, garantindo uma experi
 
 ## __Gif e URL da Página__
 
-   <div>
-  <img src="./assets/gif_campo_projetos_X-Devs.gif" alt="Gif da página">
-</div>
+  ![Preview do projeto](./assets/gif_campo_projetos_X-Devs.gif)
 
 ### [GitHub Pages](https://miguel-dalmeida.github.io/projeto-xdevs/) 
 
