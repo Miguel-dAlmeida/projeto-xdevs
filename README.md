@@ -64,5 +64,5 @@ __*Este projeto representa uma etapa importante na minha vida. Embora tenha sido
   </div>
 
 <div>
-  <img src="https://i.imgur.com/kwfpJJn.gif" alt="Gif do anime Fullmetal Alchemist representando parceria" width="100%">
+  <img src="./src/imagens/closingImage.gif" alt="Gif do anime Fullmetal Alchemist representando parceria" width="100%">
 </div>
