@@ -22,7 +22,7 @@ Além disso, o design do projeto é totalmente responsivo, garantindo uma experi
 
 ## __Gif e URL da Página__
 
-  ![Preview do projeto](./assets/gif_campo_projetos_X-Devs-convertido.webp)
+  ![Preview do projeto](https://raw.githubusercontent.com/Miguel-dAlmeida/projeto-xdevs/main/assets/gif_campo_projetos_X-Devs.gif)
 
 ### [GitHub Pages](https://miguel-dalmeida.github.io/projeto-xdevs/) 
 
@@ -63,6 +63,6 @@ __*Este projeto representa uma etapa importante na minha vida. Embora tenha sido
         target="_blank"></a>
   </div>
 
-<div>
-  <img src="./src/imagens/closingImage.gif" alt="Gif do anime Fullmetal Alchemist representando parceria" width="100%">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Miguel-dAlmeida/projeto-xdevs/main/src/imagens/closingImage.gif" alt="Imagem representando união e parceria" width="80%">
 </div>
